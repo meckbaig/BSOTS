@@ -38,6 +38,7 @@ weapon
 	fc_manual_launch			false
 	fc_controllable				true
 	fc_holdsfire				true
+	secondary_pd 				true		// Take on point defence role when not otherwise busy
 
 	range						800
 	range_planet				1000
